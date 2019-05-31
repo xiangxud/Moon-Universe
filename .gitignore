@@ -1,0 +1,8 @@
+Output/
+Listings/
+Project/*.txt
+Project/*.ini
+Project/DebugConfig/
+Project/*.admin
+Project/*.uvoptx
+Project/*.YuyingJin
